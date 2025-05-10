@@ -95,6 +95,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
+## Author
+Developed by **Dev-091**.
 
-Happy coding!
